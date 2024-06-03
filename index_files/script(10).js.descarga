@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-6',
+          componentName:'DynamicFontScaler',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:false
+        });
+      })({"font":"primary","text":"Empaques especializados de plástico Automotrices  e Industria en General \n","containerId":"tagline-container-7387","targetId":"dynamic-tagline-7388","fontSizes":["xxxlarge","xxlarge","xlarge"],"maxLines":4,"style":{"display":"inline-block","maxWidth":"100%","whiteSpace":"pre-line","borderBottomWidth":0,"borderBottomStyle":"solid","borderColor":"highContrastOverlay","paddingBottom":0,"@sm":{"borderBottomWidth":0,"paddingBottom":0},"@xs-only":{"maxWidth":"100%","marginBottom":"xsmall","wordWrap":"break-word","overflowWrap":"break-word"}},"typography":"HeadingAlpha","widgetId":"1e7867e0-7cda-434e-9372-6724208ae124","section":"overlay","category":"neutral","locale":"es-MX","renderMode":"PUBLISH"},{"widgetId":"1e7867e0-7cda-434e-9372-6724208ae124","widgetType":"HEADER","widgetPreset":"header9","section":"overlay","category":"neutral","fontSize":"xxxlarge","fontFamily":"primary","group":"Hero","groupType":"Default","themeOverrides":{}});
